@@ -1,0 +1,19 @@
+{
+	"name": "nodejs_tuts",
+	"version": "1.0.0",
+	"description": "",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/systementropy/Node-Refresh.git"
+	},
+	"author": "Saket Vatsa",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/systementropy/Node-Refresh/issues"
+	},
+	"homepage": "https://github.com/systementropy/Node-Refresh#readme"
+}
